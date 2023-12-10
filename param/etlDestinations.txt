@@ -1,0 +1,11 @@
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\BDA\PARABANCAIRE\MOUARF\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\DM_COMM\PARABANCAIRE\MOUARF\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\DM_COMM\PARABANCAIRE\MOUARF\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\STG\PARABANCAIRE\MOUARF\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\BDA\TELESURVEILANCE\NIAAA\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\DM_COMM\TELESURVEILANCE\NIAAA\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\DM_COMM\TELESURVEILANCE\NIAAA\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\STG\TELESURVEILANCE\NIAAA\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\BDA\PARABANCAIRE\BGU\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\DM_COMM\PARABANCAIRE\BGU\
+C:\Users\Chrarles\Documents\proj\Test\destination\script\ETL\Talend\STG\PARABANCAIRE\BGU\
